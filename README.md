@@ -28,6 +28,7 @@ Abra o terminal da sua distro Linux (Ubuntu, por exemplo):
 ```bash
 git clone https://github.com/Edmilson-Jose-FMM/MoviesDataSet.git
 cd MoviesDataSet
+cd postgredb
 ```
 4. Verifique o conteúdo do arquivo docker-compose.yml
 Garanta que o arquivo docker-compose.yml está na raiz do projeto e devidamente configurado.
