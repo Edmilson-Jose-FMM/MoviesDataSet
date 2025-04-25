@@ -30,10 +30,10 @@ git clone https://github.com/Edmilson-Jose-FMM/MoviesDataSet.git
 cd MoviesDataSet
 cd postgredb
 ```
-4. Verifique o conteúdo do arquivo docker-compose.yml
+### 4. Verifique o conteúdo do arquivo docker-compose.yml
 Garanta que o arquivo docker-compose.yml está na raiz do projeto e devidamente configurado.
 
-5. Suba os containers
+### 5. Suba os containers
 Execute o comando abaixo no terminal do WSL dentro da pasta do projeto:
 ```bash
    docker-compose up 
@@ -44,7 +44,7 @@ Construir as imagens (caso não existam)
 
 Criar e rodar os containers definidos no docker-compose.yml
 
-6. Verifique se está rodando
+### 6. Verifique se está rodando
 Você pode verificar se os serviços estão ativos com:
 ```bash
 docker ps
