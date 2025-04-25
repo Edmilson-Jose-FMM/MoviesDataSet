@@ -1,6 +1,4 @@
-# MoviesDataSet
-Creating Postgres DB, creating table and inserting data with docker 
-
+### MoviesDataSet
 Este guia explica como configurar e executar o projeto utilizando Docker e Docker Compose dentro do WSL no Windows.
 
 Antes de começar, verifique se você tem os seguintes itens instalados:
@@ -49,4 +47,5 @@ Você pode verificar se os serviços estão ativos com:
 ```bash
 docker ps
 ```
-
+### 7. Motivos pelo uso do Docker
+  O uso do docker possibilita com um comando(docker compose up): baixar o arquivo dataset, subir os serviços do banco Postgre, criar a tabela dentro do banco e popular a mesma com via script SQL
