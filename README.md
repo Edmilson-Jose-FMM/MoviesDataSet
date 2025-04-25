@@ -1,4 +1,4 @@
-###🎬 MoviesDataSet
+##🎬 MoviesDataSet
 
 Este guia explica como configurar e executar o projeto utilizando Docker e Docker Compose dentro do WSL no Windows.
 
