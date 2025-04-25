@@ -36,7 +36,7 @@ Garanta que o arquivo docker-compose.yml está na raiz do projeto e devidamente 
 5. Suba os containers
 Execute o comando abaixo no terminal do WSL dentro da pasta do projeto:
 ```bash
-   docker-compose up --build
+   docker-compose up 
 ```
 Esse comando irá:
 
